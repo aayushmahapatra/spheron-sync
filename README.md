@@ -22,7 +22,7 @@ To run SpheronSYNC locally, follow the steps below:
 You can follow these steps to setup the client:
 
 1. Install `Node 16.x` either manually or using a tool like nvm (recommended)
-2. Clone this repo: https://github.com/spheronFdn/SpheronSYNC.git
+2. Clone this repo: https://github.com/aayushmahapatra/spheron-sync.git
 3. Go inside the `client` directory
 4. Run `yarn` to install dependencies
 5. Create a `.env` file in the client directory and Add the following:
